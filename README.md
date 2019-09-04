@@ -10,4 +10,6 @@
   train set : 375  
   test set : 125  
   epochs : 30  
+  batchsize : 10  
   Model : HybridSN  
+  
