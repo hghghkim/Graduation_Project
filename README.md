@@ -41,3 +41,8 @@
   train set : 1000  
   validation set : 250  
   test set : 286
+  
+## layers_pooling
+ layer + pooling model
+ ### Ver 1
+  
