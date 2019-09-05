@@ -85,28 +85,28 @@
    batch size : 128  
    epochs : 1000
   ### Ver 3
-   input size : (61,61,20)
+   input size : (61,61,20)  
    2 3D convlayers + 1 3D pooling + 2D Convlayer + 2xDense layers  
    optimizer : Adam  
    learning rate : 0.001  
    batch size : 4  
    epochs : 2000  
      
-   input size : (61,61,20)
+   input size : (61,61,20)  
    2 3D convlayers + 1 3D pooling + 2D Convlayer + 2xDense layers  
    optimizer : Adam  
    learning rate : 0.001  
    batch size : 8  
    epochs : 2000  
      
-   input size : (61,61,20)
+   input size : (61,61,20)  
    2 3D convlayers + 1 3D pooling + 2D Convlayer + 2xDense layers  
    optimizer : Adam  
    learning rate : 0.001  
    batch size : 12  
    epochs : 2000  
      
-   input size : (61,61,20)
+   input size : (61,61,20)  
    2 3D convlayers + 1 3D pooling + 2D Convlayer + 2xDense layers  
    optimizer : Adam  
    learning rate : 0.001  
