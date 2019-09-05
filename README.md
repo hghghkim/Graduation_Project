@@ -1,7 +1,7 @@
 # Graduation_Project
  Hyperspecral image classifiation
 
-## test
+## test(base_model.ipynb)
  ### Ver 1
   데이터 불러오기  
   데이터 확인  
@@ -22,6 +22,11 @@
  ### Ver 4
   epochs : 100  
   batchsize : 8  
+  Model : HybridSN  
+  optimizer : Adam
+ ### Ver 5
+  epochs : 50  
+  batchsize : 12  
   Model : HybridSN  
   optimizer : Adam
 
