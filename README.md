@@ -74,14 +74,42 @@
    input size : (61,61,61)  
    4 3D Convlayers + 2D Convlayer + 2xDense layers
    optimizer : SGD  
-   learning rate : 0.1
+   learning rate : 0.1  
    batch size : 32  
    epochs : 1000
   ### Ver 2
    input size : (61,61,20)  
-   2 x (2 3D convlayers + 1 3D pooling) + 2D Convlayer + 2xDense layers
+   2 x (2 3D convlayers + 1 3D pooling) + 2D Convlayer + 2xDense layers  
    optimizer : SGD  
-   learning rate : 0.1
+   learning rate : 0.1  
    batch size : 128  
    epochs : 1000
+  ### Ver 3
+   input size : (61,61,20)
+   2 3D convlayers + 1 3D pooling + 2D Convlayer + 2xDense layers  
+   optimizer : Adam  
+   learning rate : 0.001  
+   batch size : 4  
+   epochs : 2000  
+     
+   input size : (61,61,20)
+   2 3D convlayers + 1 3D pooling + 2D Convlayer + 2xDense layers  
+   optimizer : Adam  
+   learning rate : 0.001  
+   batch size : 8  
+   epochs : 2000  
+     
+   input size : (61,61,20)
+   2 3D convlayers + 1 3D pooling + 2D Convlayer + 2xDense layers  
+   optimizer : Adam  
+   learning rate : 0.001  
+   batch size : 12  
+   epochs : 2000  
+     
+   input size : (61,61,20)
+   2 3D convlayers + 1 3D pooling + 2D Convlayer + 2xDense layers  
+   optimizer : Adam  
+   learning rate : 0.001  
+   batch size : 16  
+   epochs : 2000  
    
