@@ -29,4 +29,9 @@
   batchsize : 12  
   Model : HybridSN  
   optimizer : Adam
-
+ ### Ver 6
+  Multi Gpu 사용 test  
+  Gpu : 2
+ ### Ver 7
+  Multi Gpu 사용 test  
+  Gpu : 4
