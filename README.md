@@ -25,8 +25,8 @@
   Model : HybridSN  
   optimizer : Adam
  ### Ver 5
-  epochs : 50
-  batchsize : 12
-  Model : HybridSN
+  epochs : 50  
+  batchsize : 12  
+  Model : HybridSN  
   optimizer : Adam
 
