@@ -45,4 +45,14 @@
 ## layers_pooling
  layer + pooling model
  ### Ver 1
-  
+  2 layers + 1 pooling x 3 + 3 dense layers  
+  optimizer : Adam  
+  learning rate : 0.005  
+  batch size : 32  
+  epoch : 500  
+ ### Ver 2
+  2 layers + 1 pooling x4 + 2 dense layers  
+  optimizer : Adam  
+  learning rate : 0.01  
+  batch size : 12  
+  epoch : 500  
