@@ -68,3 +68,20 @@
   learning rate : 0.001  
   batch size : 64  
   epoch : 500  
+
+## HybridSN
+  ### Ver 1
+   input size : (61,61,61)  
+   4 3D Convlayers + 2D Convlayer + 2xDense layers
+   optimizer : SGD  
+   learning rate : 0.1
+   batch size : 32  
+   epochs : 1000
+  ### Ver 2
+   input size : (61,61,20)  
+   2 x (2 3D convlayers + 1 3D pooling) + 2D Convlayer + 2xDense layers
+   optimizer : SGD  
+   learning rate : 0.1
+   batch size : 128  
+   epochs : 1000
+   
