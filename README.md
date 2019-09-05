@@ -6,17 +6,22 @@
   데이터 불러오기  
   데이터 확인  
   Model : HybridSN  
-  optimizer : adam
+  optimizer : Adam
  ### Ver 2
   train set : 375  
   test set : 125  
   epochs : 30  
   batchsize : 10  
   Model : HybridSN  
-  optimizer : adam  
+  optimizer : Adam  
  ### Ver 3
   epochs : 50  
   batchsize : 8  
   Model : HybridSN  
-  optimizer : rmsprop
+  optimizer : Rmsprop
+ ### Ver 4
+  epochs : 100  
+  batchsize : 8  
+  Model : HybridSN  
+  optimizer : Adam
 
