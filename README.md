@@ -79,7 +79,7 @@
    epochs : 1000
   ### Ver 2
    input size : (61,61,20)  
-   2 x (2 3D convlayers + 1 3D pooling) + 2D Convlayer + 2xDense layers
+   2 x (2 3D convlayers + 1 3D pooling) + 2D Convlayer + 2xDense layers  
    optimizer : SGD  
    learning rate : 0.1  
    batch size : 128  
