@@ -63,8 +63,8 @@
   batch size : 32  
   epoch : 500  
  ### Ver 4
-  2 layers + 1 pooling x4 + dense layers x2
-  optimizer : Adam
-  learning rate : 0.001
-  batch size : 64
-  epoch : 500
+  2 layers + 1 pooling x4 + dense layers x2  
+  optimizer : Adam  
+  learning rate : 0.001  
+  batch size : 64  
+  epoch : 500  
