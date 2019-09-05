@@ -35,3 +35,9 @@
  ### Ver 7
   Multi Gpu 사용 test  
   Gpu : 4
+ ### Ver 8
+  Sample 수 증가 : 1536  
+  Validation set 추가  
+  train set : 1000  
+  validation set : 250  
+  test set : 286
